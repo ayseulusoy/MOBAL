@@ -7,6 +7,6 @@ Frontend: HTML, CSS, JAVASCRIPT
 
 Backend: PHP
 
-Libraries: BOOTSTRAP5 (Responsive Tasarım), AJAX (Dinamik Obje Ekleme)
+Kütüphaneler: BOOTSTRAP5 (Responsive Tasarım), AJAX (Dinamik Obje Ekleme)
 
-Database: MySQL
+Veri tabanı: MySQL
