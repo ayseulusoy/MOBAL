@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Forest Banklı Mutfak Masa Seti</TITLE>
+        <IMAGE>.\resimler\mutfak1.jpg</IMAGE>
+        <ACIKLAMA>Yemek Masası,Sandalye(2 Adet) ve Sırtsız Bank Seti</ACIKLAMA>
+        <FIYAT>12.620,00 TL</FIYAT>
+        <LINK>.\urun\mutfak1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>İndigo Masa Seti</TITLE>
+        <IMAGE>.\resimler\mutfak2.jpg</IMAGE>
+        <ACIKLAMA>Yemek Masası ve Sandalye(6 Adet) Seti</ACIKLAMA>
+        <FIYAT>15.620,00 TL</FIYAT>
+        <LINK>.\urun\mutfak2.php</LINK>
+    </URUN>
+</URUNLER>    

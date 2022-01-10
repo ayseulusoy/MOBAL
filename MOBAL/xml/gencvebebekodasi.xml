@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Gallery Genç Odası Takımı</TITLE>
+        <IMAGE>.\resimler\gencvebebekodasi1.jpg</IMAGE>
+        <ACIKLAMA>Dolap,Çalışma Masası,Yatak ve Şifonyer Seti</ACIKLAMA>
+        <FIYAT>20.620,00 TL</FIYAT>
+        <LINK>.\urun\gencvebebekodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Lena Genç Odası Takımı</TITLE>
+        <IMAGE>.\resimler\gencvebebekodasi2.jpg</IMAGE>
+        <ACIKLAMA>Dolap,Çalışma Masası,Yatak ve Şifonyer Seti</ACIKLAMA>
+        <FIYAT>19.620,00 TL</FIYAT>
+        <LINK>.\urun\gencvebebekodasi2.php</LINK>
+    </URUN>
+     <URUN>
+        <TITLE>Gold Bebek Odası Takımı</TITLE>
+        <IMAGE>.\resimler\gencvebebekodasi3.jpg</IMAGE>
+        <ACIKLAMA>Dolap,Bebek Karyolası ve Şifonyer Seti</ACIKLAMA>
+        <FIYAT>7.620,00 TL</FIYAT>
+        <LINK>.\urun\gencvebebekodasi3.php</LINK>
+    </URUN>
+</URUNLER>    

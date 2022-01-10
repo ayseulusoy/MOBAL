@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Lena Kitaplık</TITLE>
+        <IMAGE>.\resimler\aksesuar1.jpg</IMAGE>
+        <ACIKLAMA> 
+        Derinlik:	46.40 cm 
+        Genişlik:	90.60 cm 
+        Yükseklik:	163.20 cm
+        </ACIKLAMA>
+        <FIYAT>2.000,00 TL</FIYAT>
+        <LINK>.\urun\aksesuar1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Elizya Portmanto</TITLE>
+        <IMAGE>.\resimler\aksesuar2.jpg</IMAGE>
+        <ACIKLAMA>
+        Derinlik:	50.30 cm 
+        Genişlik:	132.30 cm 
+        Yükseklik:	206.80 cm
+        </ACIKLAMA>
+        <FIYAT>3.545,00 TL</FIYAT>
+        <LINK>.\urun\aksesuar2.php</LINK>
+    </URUN>
+</URUNLER>    

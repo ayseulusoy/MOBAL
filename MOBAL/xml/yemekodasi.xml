@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Karat Yemek Odası Takımı</TITLE>
+        <IMAGE>.\resimler\yemekodasi1.jpg</IMAGE>
+        <ACIKLAMA>Yemek Masası,Sandalye(6 Adet)Konsol ve Konsol Aynası Seti</ACIKLAMA>
+        <FIYAT>16.620,00 TL</FIYAT>
+        <LINK>.\urun\yemekodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>İndigo Yemek Odası Takımı</TITLE>
+        <IMAGE>.\resimler\yemekodasi2.jpg</IMAGE>
+        <ACIKLAMA>Yemek Masası,Sandalye(8 Adet)Konsol ve Konsol Aynası Seti</ACIKLAMA>
+        <FIYAT>20.620,00 TL</FIYAT>
+        <LINK>.\urun\yemekodasi2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Rosalina Yemek Odası Takımı</TITLE>
+        <IMAGE>.\resimler\yemekodasi3.jpg</IMAGE>
+        <ACIKLAMA>Yemek Masası,Sandalye(6 Adet)Konsol ve Konsol Aynası Seti</ACIKLAMA>
+        <FIYAT>15.620,00 TL</FIYAT>
+        <LINK>.\urun\yemekodasi3.php</LINK>
+    </URUN>
+</URUNLER>    

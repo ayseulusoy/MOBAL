@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Prado Salon Takımı</TITLE>
+        <IMAGE>.\resimler\oturmagrubu1.jpg</IMAGE>
+        <ACIKLAMA>Üçlü Koltuk,Üçlü Kanepe ve Berjer Seti</ACIKLAMA>
+        <FIYAT>30.620,00 TL</FIYAT>
+        <LINK>.\urun\oturmagrubu1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Pier Salon Takımı</TITLE>
+        <IMAGE>.\resimler\oturmagrubu2.jpg</IMAGE>
+        <ACIKLAMA>Üçlü Koltuk,İkili Koltuk ve Berjer Seti</ACIKLAMA>
+        <FIYAT>29.620,00 TL</FIYAT>
+        <LINK>.\urun\oturmagrubu2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Mikado Deluxe Takım</TITLE>
+        <IMAGE>.\resimler\oturmagrubu3.jpg</IMAGE>
+        <ACIKLAMA>Üçlü Kanepe,İkili Kanepe ve Berjer Seti</ACIKLAMA>
+        <FIYAT>20.620,00 TL</FIYAT>
+        <LINK>.\urun\oturmagrubu3.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Lauren Köşe Takımı</TITLE>
+        <IMAGE>.\resimler\oturmagrubu4.jpg</IMAGE>
+        <ACIKLAMA>Köşe Koltuk,Tekli Koltuk ve Berjer Seti</ACIKLAMA>
+        <FIYAT>21.620,00 TL</FIYAT>
+        <LINK>.\urun\oturmagrubu4.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Vals Koltuk Takımı</TITLE>
+        <IMAGE>.\resimler\oturmagrubu5.jpg</IMAGE>
+        <ACIKLAMA>Üçlü Koltuk,İkili Koltuk ve Berjer Seti</ACIKLAMA>
+        <FIYAT>25.620,00 TL</FIYAT>
+        <LINK>.\urun\oturmagrubu5.php</LINK>
+    </URUN>
+</URUNLER>    

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+    <URUN>
+        <TITLE>Gusto Yatak Odası Takımı</TITLE>
+        <IMAGE>.\resimler\yatakodasi1.jpg</IMAGE>
+        <ACIKLAMA>Dolap,Makyaj Aynası,Makyaj Masası,Komodin,Şifonyer ve Yatak Seti</ACIKLAMA>
+        <FIYAT>35.620,00 TL</FIYAT>
+        <LINK>.\urun\yatakodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Elite Yatak Odası Takımı</TITLE>
+        <IMAGE>.\resimler\yatakodasi2.jpg</IMAGE>
+        <ACIKLAMA>Dolap,Makyaj Aynası,Makyaj Masası,Şifonyer ve Yatak Seti</ACIKLAMA>
+        <FIYAT>33.620,00 TL</FIYAT>
+        <LINK>.\urun\yatakodasi2.php</LINK>
+    </URUN>
+</URUNLER>    

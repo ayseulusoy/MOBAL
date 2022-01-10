@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SEARCH>
+
+    <!--Kategoriler-->
+    <URUN>
+        <TITLE>Lena Kitaplık</TITLE>
+        <LINK>aksesuar1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Elizya Portmanto</TITLE>
+        <LINK>aksesuar2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Gallery Genç Odası Takımı</TITLE>
+        <LINK>gencvebebekodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Lena Genç Odası Takımı</TITLE>
+        <LINK>gencvebebekodasi2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Gold Bebek Odası Takımı</TITLE>
+        <LINK>gencvebebekodasi3.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Forest Banklı Mutfak Masa Seti</TITLE>
+        <LINK>mutfak1.php</LINK>
+    </URUN>
+     <URUN>
+        <TITLE>İndigo Masa Seti</TITLE>
+        <LINK>mutfak2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Prado Salon Takımı</TITLE>
+        <LINK>oturmagrubu1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Pier Salon Takımı</TITLE>
+        <LINK>oturmagrubu2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Mikado Deluxe Takım</TITLE>
+        <LINK>oturmagrubu3.php</LINK>
+    </URUN>
+     <URUN>
+        <TITLE>Lauren Köşe Takımı</TITLE>
+        <LINK>oturmagrubu4.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Vals Koltuk Takımı</TITLE>
+        <LINK>oturmagrubu5.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Gusto Yatak Odası Takımı</TITLE>
+        <LINK>yatakodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Elite Yatak Odası Takımı</TITLE>
+        <LINK>yatakodasi2.php</LINK>
+    </URUN>
+     <URUN>
+        <TITLE>Karat Yemek Odası Takımı</TITLE>
+        <LINK>yemekodasi1.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>İndigo Yemek Odası Takımı</TITLE>
+        <LINK>yemekodasi2.php</LINK>
+    </URUN>
+    <URUN>
+        <TITLE>Rosalina Yemek Odası Takımı</TITLE>
+        <LINK>yemekodasi3.php</LINK>
+    </URUN>
+
+
+</SEARCH>
